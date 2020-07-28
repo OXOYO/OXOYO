@@ -1,4 +1,4 @@
-### Hello Baby 🐛
+### Hello 🐛
 
 ![OXOYO's github stats](https://github-readme-stats.vercel.app/api?username=OXOYO&show_icons=true&theme=vue)
 
