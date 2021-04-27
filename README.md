@@ -1,6 +1,6 @@
 ### Hello 🐛
 
-[![Page Views Count](https://badges.toozhao.com/badges/01F48RMF22RNGMCD9Y0R28M5BP/green.svg)](https://badges.toozhao.com/stats/01F48RMF22RNGMCD9Y0R28M5BP "Get your own page views count badge on badges.toozhao.com")
+[![Page Views Count](https://badges.toozhao.com/badges/01F48RT1JGJPES95GK8TMAVR6G/green.svg)](https://badges.toozhao.com/stats/01F48RT1JGJPES95GK8TMAVR6G "Get your own page views count badge on badges.toozhao.com")
 
 ![OXOYO's github stats](https://github-readme-stats.vercel.app/api?username=OXOYO&show_icons=true&theme=vue)
 
