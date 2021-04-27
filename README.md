@@ -1,5 +1,7 @@
 ### Hello 🐛
 
+[![Page Views Count](https://badges.toozhao.com/badges/01F48RMF22RNGMCD9Y0R28M5BP/green.svg)](https://badges.toozhao.com/stats/01F48RMF22RNGMCD9Y0R28M5BP "Get your own page views count badge on badges.toozhao.com")
+
 ![OXOYO's github stats](https://github-readme-stats.vercel.app/api?username=OXOYO&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OXOYO)](https://github.com/anuraghazra/github-readme-stats)
