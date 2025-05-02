@@ -10,6 +10,8 @@
 
 ### Projects 😄
 
+[![](https://raw.githubusercontent.com/OXOYO/Flying-Bird-Wallpaper/main/docs/fbw_search.png)](https://github.com/OXOYO/Flying-Bird-Wallpaper)
+
 [![](https://raw.githubusercontent.com/OXOYO/X-Flowchart-Vue/master/document/FlowChart/20200101101220.png)](https://oxoyo.co/X-Flowchart-Vue/)
 
 [![](https://raw.githubusercontent.com/OXOYO/X-WebDesktop-Vue/master/document/screenshot/2020-01-01%2009%2058%2049.png)](https://oxoyo.co/X-WebDesktop-Vue/)
