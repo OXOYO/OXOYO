@@ -1,8 +1,12 @@
 ### Hello 🐛
 
-[![Page Views Count](https://badges.toozhao.com/badges/01F48RT1JGJPES95GK8TMAVR6G/green.svg)](https://badges.toozhao.com/stats/01F48RT1JGJPES95GK8TMAVR6G "Get your own page views count badge on badges.toozhao.com")
+<!-- [![Page Views Count](https://badges.toozhao.com/badges/01F48RT1JGJPES95GK8TMAVR6G/green.svg)](https://badges.toozhao.com/stats/01F48RT1JGJPES95GK8TMAVR6G "Get your own page views count badge on badges.toozhao.com") -->
 
-<!-- ![OXOYO's github stats](https://github-readme-stats.vercel.app/api?username=OXOYO&show_icons=true&theme=vue) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OXOYO&show_icons=true&theme=ambient_gradient" width="100%" />
+</a>
+
+<!-- ![OXOYO's github stats](https://github-readme-stats.vercel.app/api?username=OXOYO&show_icons=true&theme=ambient_gradient) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OXOYO)](https://github.com/anuraghazra/github-readme-stats) -->
 
