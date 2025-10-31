@@ -1,3 +1,9 @@
+<p align="center"> 
+  <a href="https://35-badge.oxoyo.co/" target="_blank">
+    <img src="https://raw.githubusercontent.com/OXOYO/OXOYO/refs/heads/master/35-badge_oxoyo.svg" />
+  </a>
+</p>
+
 ### Hello 🐛
 
 <!-- [![Page Views Count](https://badges.toozhao.com/badges/01F48RT1JGJPES95GK8TMAVR6G/green.svg)](https://badges.toozhao.com/stats/01F48RT1JGJPES95GK8TMAVR6G "Get your own page views count badge on badges.toozhao.com") -->
